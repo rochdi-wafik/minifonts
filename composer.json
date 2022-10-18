@@ -1,7 +1,8 @@
 {
     "name": "wafik-net/minifonts",
-    "description": "a lightweight font-awesome library",
+    "description": "a lightweight version of font-awesome library",
     "type": "library",
-    "license": "mit",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "require": {}
 }
