@@ -6,12 +6,5 @@
       "type": "git",
       "url": "https://github.com/wafik-net/minifonts.git"
   },
-  "license": [
-      "MIT"
-  ],
-  "authors": [
-      {
-          "name": "wafik net"
-      }
-  ]
+  "license":"MIT"
 }
