@@ -3,6 +3,7 @@
     "description": "a lightweight version of font-awesome library",
     "type": "library",
     "license": "MIT",
+    "version":"1.0",
     "minimum-stability": "stable",
     "require": {}
 }
