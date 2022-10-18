@@ -1,4 +1,17 @@
 {
   "name": "wafik-net/minifonts",
-  "description": "A lighweight font-awesome library"
+  "description": "A lighweight font-awesome library",
+  "version": "1.0",
+  "source": {
+      "type": "git",
+      "url": "https://github.com/wafik-net/minifonts.git"
+  },
+  "license": [
+      "MIT"
+  ],
+  "authors": [
+      {
+          "name": "wafik net"
+      }
+  ]
 }
